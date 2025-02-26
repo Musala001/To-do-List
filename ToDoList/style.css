@@ -13,10 +13,15 @@ body{
 }
 #sec1{
   display: flex;
-    background-color: aqua;
+    background-color: white;
     text-size-adjust: x large;
     width: 500px;
     height: 500px;
     align-items: center;
     
+}
+#clearAll{
+    size: 50px;
+    color: red;
+    background-color: black;
 }
